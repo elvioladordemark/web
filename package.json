@@ -1,0 +1,11 @@
+{
+  "name": "captura-m3u8",
+  "version": "1.0.0",
+  "main": "api/captura.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "puppeteer": "^19.6.0"
+  }
+}
